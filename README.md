@@ -16,6 +16,8 @@
 - **Freezed & JSON Serializable**: لتوليد كود الموديلات والبيانات.
 - **Google Fonts (Roboto/Inter)**: لتحسين الخطوط والشكل الجمالي.
 - **Clean Architecture**: تنظيم المشروع بطريقة احترافية (Features, Core, Models).
+## Secreen 
+<img width="407" height="858" alt="image" src="https://github.com/user-attachments/assets/bdbfd6b6-5f8c-4741-808f-c4294ae0638e" />
 
 ## خطوات التشغيل
 لتشغيل المشروع محلياً، اتبع الخطوات التالية:
