@@ -29,8 +29,8 @@ class ProfilePage extends StatelessWidget {
                         height: 100,
                         decoration: BoxDecoration(
                           shape: BoxShape.circle,
-                          color: Colors.grey.shade300,
-                          border: Border.all(color: Colors.white, width: 4),
+                          color: const Color.fromARGB(255, 224, 224, 224),
+                          border: Border.all(color: const Color.fromARGB(255, 224, 224, 224), width: 4),
                           boxShadow: [
                             BoxShadow(
                               color: Colors.black.withOpacity(0.1),
@@ -236,3 +236,4 @@ class ProfilePage extends StatelessWidget {
     );
   }
 }
+// design branch verification
