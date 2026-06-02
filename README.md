@@ -1,17 +1,49 @@
-# first_prject
+# Premium Store App 🚀
 
-A new Flutter project.
+تطبيق متجر إلكتروني عصري مبني باستخدام إطار العمل **Flutter**، يتميز بتصميم أنيق وتفاعلي ويوفر تجربة مستخدم مميزة.
 
-## Getting Started
+## 📝 وصف المشروع
+هذا المشروع هو عبارة عن تطبيق متجر متكامل يحتوي على:
+- شاشات ترحيبية (Onboarding) جذابة.
+- نظام تسجيل دخول وإنشاء حساب (Authentication).
+- معرض منتجات تعرض البطاقات (Cards) بشكل احترافي.
+- سلة تسوق (Cart Management) مع إدارة الحالة باستخدام **Bloc**.
+- صفحة تفاصيل المنتج (Product Details).
 
-This project is a starting point for a Flutter application.
+## 🛠️ التقنيات المستخدمة
+- **Flutter & Dart**: الإطار الأساسي للتطوير.
+- **Bloc/Cubit**: لإدارة حالة التطبيق (State Management).
+- **Freezed & JSON Serializable**: لتوليد كود الموديلات والبيانات.
+- **Google Fonts (Roboto/Inter)**: لتحسين الخطوط والشكل الجمالي.
+- **Clean Architecture**: تنظيم المشروع بطريقة احترافية (Features, Core, Models).
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+*(ملاحظة: سيتم إضافة صور التطبيق هنا)*
+![Home View](https://raw.githubusercontent.com/Salem9O200/github-training-project/main/screenshots/home.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 خطوات التشغيل
+لتشغيل المشروع محلياً، اتبع الخطوات التالية:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. قم بعمل Clone للمستودع:
+   ```bash
+   git clone https://github.com/Salem9O200/github-training-project.git
+   ```
+2. ادخل إلى مجلد المشروع:
+   ```bash
+   cd github-training-project
+   ```
+3. قم بتحميل المكتبات المطلوبة:
+   ```bash
+   flutter pub get
+   ```
+4. قم بتشغيل التطبيق:
+   ```bash
+   flutter run
+   ```
+
+## 👤 الطالب
+- **الاسم**: [Salem]
+- **المساق**: تدريب GitHub و Git
+
+---
+تم التطوير بكل ❤️ باستخدام Flutter.
