@@ -17,33 +17,30 @@
 - **Google Fonts (Roboto/Inter)**: لتحسين الخطوط والشكل الجمالي.
 - **Clean Architecture**: تنظيم المشروع بطريقة احترافية (Features, Core, Models).
 
-## 📸 Screenshots
-*(ملاحظة: سيتم إضافة صور التطبيق هنا)*
-![Home View](https://raw.githubusercontent.com/Salem9O200/github-training-project/main/screenshots/home.png)
-
-## 🚀 خطوات التشغيل
+## خطوات التشغيل
 لتشغيل المشروع محلياً، اتبع الخطوات التالية:
 
 1. قم بعمل Clone للمستودع:
-   ```bash
+   ```
    git clone https://github.com/Salem9O200/github-training-project.git
    ```
 2. ادخل إلى مجلد المشروع:
-   ```bash
+   ```
    cd github-training-project
    ```
 3. قم بتحميل المكتبات المطلوبة:
-   ```bash
+   ```
    flutter pub get
    ```
 4. قم بتشغيل التطبيق:
-   ```bash
+   ```
    flutter run
    ```
 
-## 👤 الطالب
-- **الاسم**: [Salem]
-- **المساق**: تدريب GitHub و Git
+## الطالب
+- الاسم : سالم عمر أحمد أبو زايده
+- الرقم الجامعي : 120221875
+- **المساق**: تدريب ميداني
 
 ---
-تم التطوير بكل ❤️ باستخدام Flutter.
+تم التطويره بالكامل باستخدام Flutter.
